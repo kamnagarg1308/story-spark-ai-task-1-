@@ -225,6 +225,7 @@ function App() {
         <Route path="/blog" element={<BlogComponent />} />
         <Route path="/help-center" element={<HelpCenterComponent />} />
         <Route path="/guidelines" element={<GuidelinesComponent />} />
+        <Route path="/community" element={<CommunityComponent />} />
         <Route path="*" element={<NotFoundComponent />} />
       </Routes>
 

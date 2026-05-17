@@ -1,6 +1,7 @@
 
 import { Link } from "react-router-dom";
 import logo from "../../assets/logoNew.png";
+
 const FooterComponent = () => {
   return (
     <div className="bg-black">
@@ -163,7 +164,7 @@ const FooterComponent = () => {
             </a>
 
             <a
-              href="https://github.com/ronisarkarexe/story-spark-ai.git"
+              href="https://github.com/ronisarkarexe"
               className="text-gray-400 hover:text-white transition-colors duration-200"
             >
               <i className="fab fa-github"></i>
