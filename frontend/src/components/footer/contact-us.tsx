@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 const ContactUs = () => {
     return (
-        <div className="min-h-screen bg-white text-slate-900 px-6 py-12 transition-colors duration-300 dark:bg-[#0b1329] dark:text-white">
+        <div className="min-h-screen bg-white text-slate-900 px-6 py-12 transition-colors duration-300 dark:bg-[#0b1329] dark:text-white flex items-center justify-center">
             <div className="max-w-4xl mx-auto text-center">
                 <h1 className="text-4xl font-bold mb-6">
                     Contact Us
